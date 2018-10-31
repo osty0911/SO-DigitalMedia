@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Syd Ostendorf Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/osty0911/SO-DigitalMedia/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
