@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* This is a comment! Text here will be ignored by the browser. */
+body {
+	margin: 0 auto;
+	font-family: Arial Black, Gadget, sans-serif;
+}
+a {
+	text-decoration: none;
+	color: #832924
+}
+a:hover {
+	color: #F6B95F;
+	font-size: 23px;
+}
+a:visted {
+	color: #592F2F;
+}
+.homePage {
+	background: #2A2F2E;
+}
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+.header {
+	background: #592F2F;
+	color: #F6B95F;
+	text-align: center;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 80px;
+	
+}
+.nav {
+	background: #2A2F2E;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 60px;
+	text-align: center;
+}
+.content {
+	background: #8C948A;
+	color: #832924;
+	font-size: 50px;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.content img {
+	float: right;
+	margin: 20px;
+}
+.footer {
+	background: #592F2F;
+	color: #F6B95F;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+}
