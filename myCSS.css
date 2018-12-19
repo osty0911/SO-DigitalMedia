@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* This is a comment! Text here will be ignored by the browser. */
+body {
+	margin: 0 auto;
+	font-family: Arial Black, Gadget, sans-serif;
+}
+a {
+	text-decoration: none;
+	color: #832924
+}
+a:hover {
+	color: #F6B95F;
+}
+a:visted {
+	color: #592F2F;
+}
+table td {
+	font-size: 40px;
+}
+table tr:hover {
+	color: transparent;
+}
+table td audio {
+	padding: 30px;
+}
+.audio:hover {
+	color:#F6B95F; 
+}
+.date {
+	font-size: 20px;
+}
+.homePage {
+	background: #2A2F2E;
+}
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+.header {
+	background: #592F2F;
+	color: #F6B95F;
+	text-align: center;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 80px;
+	
+}
+.nav {
+	background: #2A2F2E;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 60px;
+	text-align: center;
+}
+.content {
+	background: #8C948A;
+	color: #832924;
+	font-size: 50px;
+	margin: 0px;
+	width: 100%;
+}
+.header {
+	text-align: center;
+}
+.img {
+	padding: 30px;
+	display: inline;
+}
+.img:hover {
+	width: 100%;
+	transition:transform 0.5s ease;
+}
+.footer {
+	background: #592F2F;
+	color: #F6B95F;
+	margin: 0px;
+	float: left;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+}
